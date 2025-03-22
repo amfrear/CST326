@@ -21,7 +21,7 @@ Scrum is an agile framework designed to simplify the complex process of developi
 
 At its core, Scrum defines clear roles: the Product Owner sets the vision and prioritizes the backlog, the Scrum Master facilitates the process and removes impediments, and the Development Team collaborates to deliver the product. As noted by Atlassian (2021), “Scrum promotes a mindset of collaboration and continuous improvement, ensuring every team member is aligned with the project’s objectives” (p. 1). Daily stand-ups, sprint reviews, and retrospectives foster open communication and ongoing learning, which are vital for addressing challenges promptly and refining processes.
 
-Moreover, Scrum’s iterative nature helps teams manage uncertainty and complexity. It creates an environment that not only emphasizes efficiency and productivity but also nurtures creativity and innovation in problem-solving, thereby continuously adding value to both the product and the organization.
+Scrum’s iterative nature helps teams manage uncertainty and complexity. It creates an environment that not only emphasizes efficiency and productivity but also nurtures creativity and innovation in problem-solving, thereby continuously adding value to both the product and the organization.
 
 **References**  
 Atlassian. (2021). *What is Scrum? A practical guide to Agile project management*. Retrieved from [https://www.atlassian.com/agile/scrum](https://www.atlassian.com/agile/scrum)  
@@ -49,7 +49,7 @@ Agile-based tools and Git repositories work together to streamline the Scrum pro
 
 Simultaneously, Git repositories are essential for effective version control. Developers use Git to manage code changes, work on multiple branches concurrently, and merge contributions safely, thereby minimizing conflicts. As Chacon and Straub (2014) observe, “Git’s distributed nature allows for comprehensive version control and collaborative development, which is essential in fast-paced agile environments” (p. 98). This system ensures that all code modifications are documented and traceable.
 
-Moreover, integrating Git with agile tools further enhances project management by linking commits and pull requests directly to specific user stories or tasks. This integration supports automated testing and continuous integration processes, which in turn uphold code quality and accelerate iterative development. Together, these tools embody the Scrum principles of transparency, collaboration, and continuous improvement, ultimately leading to a more efficient and adaptive software development process.
+Integrating Git with agile tools further enhances project management by linking commits and pull requests directly to specific user stories or tasks. This integration supports automated testing and continuous integration processes, which in turn uphold code quality and accelerate iterative development. Together, these tools embody the Scrum principles of transparency, collaboration, and continuous improvement, ultimately leading to a more efficient and adaptive software development process.
 
 **References**  
 Atlassian. (2021). *What is Scrum? A practical guide to Agile project management*. Retrieved from [https://www.atlassian.com/agile/scrum](https://www.atlassian.com/agile/scrum)  
