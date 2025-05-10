@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Node modules (in case you ever use Node.js)
+node_modules/
+
+# Ignore VS Code settings (optional, but common)
+.vscode/
+
+# Ignore log files
+*.log
